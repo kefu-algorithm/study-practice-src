@@ -10,6 +10,10 @@ public class Exercise08_dongqingqing {
     }
 
     private static void printTestSentence() {
+        System.out.println('b');
+        System.out.println('b' + 'c');
+        System.out.println('a' + 4);
+        System.out.println((char) ('a' + 4));
 
     }
 }

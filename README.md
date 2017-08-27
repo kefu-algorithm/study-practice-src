@@ -8,6 +8,7 @@
     * 《算法》第四版上的课后习题练习代码；
     * 包名按"章节_小节"的方式命名；
     * 类名按"Exercise<练习题序号>_用户名""命名；
+    * 可参考网友实现的代码，https://github.com/jimmysuncpt/Algorithms；
    
 * personal-practice
     * 个人的练习代码；
