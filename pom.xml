@@ -11,17 +11,6 @@
     <modules>
         <module>book-algorithm4rd</module>
         <module>personal-practice</module>
-        <module>algs4</module>
+        <module>algorithm4rd-library</module>
     </modules>
-
-    <dependencyManagement>
-        <dependencies>
-            <dependency>
-                <groupId>edu.princeton.cs</groupId>
-                <artifactId>algs4</artifactId>
-                <version>1.0.3</version>
-            </dependency>
-        </dependencies>
-    </dependencyManagement>
-
 </project>
